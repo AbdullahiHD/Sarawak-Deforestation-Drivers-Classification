@@ -59,19 +59,19 @@ pip install -r requirements.txt
 ## Usage
 1. Data Collection
 ``` JavaScript
-  run GFC_DATA.js and Satellite_Imagery.js
+  run GFC_DATA.js and Satellite_Imagery.js in GOogle Earth Engine Editor
 ```
-1. Data Preparation:
+2. Data Preparation:
 ```python
  run Training + Effnet + Resnet.ipynb or Training - UNet.ipynb or Training ViT Transformer.ipynb
 ```
 
-2. Model Training:
+3. Model Training:
 ```python
  run Training + Effnet + Resnet.ipynb or Training - UNet.ipynb or Training ViT Transformer.ipynb
 ```
 
-3. Inference:
+4. Inference:
 ```python
  run PredictInsights.ipynb
 ```
