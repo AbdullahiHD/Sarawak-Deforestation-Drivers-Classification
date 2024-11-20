@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ## Usage
 1. Data Collection
 ``` JavaScript
-  run GFC_DATA and Satellite_Imagery.js
+  run GFC_DATA.js and Satellite_Imagery.js
 ```
 1. Data Preparation:
 ```python
